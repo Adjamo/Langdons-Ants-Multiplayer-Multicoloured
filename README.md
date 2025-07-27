@@ -1,3 +1,3 @@
-Langdons antsm multicoloured multiplayer :)
+Langdons ants multicoloured multiplayer :)
 
 MIT licensed so feel free to use it for whatever
